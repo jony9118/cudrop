@@ -1,0 +1,333 @@
+.img-sizing{
+	width: 150px;  
+}
+header{
+	background-color: #37517E;
+	background-image: url("../images/banner-2.png");
+	background-repeat: no-repeat;
+	background-size: 594px;
+	background-position: right center;
+}
+.blue{
+	background-color: #47B2E4;
+	margin-right: 17px;
+	margin-left: 32px;
+}
+.cheap-writing{
+    padding-top: 73px;
+    padding-bottom: 98px;
+}
+.cheap-writing h1{
+    font-size: 34px;
+    line-height: 1.35;
+    font-weight: 500;
+    padding-bottom: 19px;
+}
+.cheap-writing p{
+    margin-top: 11px;
+    font-size: 15px;
+    line-height: 1.7;
+}
+.cheap-writing a{
+    margin-top: 26px;
+    font-size: 18px;
+    padding: 10px 20px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+}
+.cheap-writing i{
+    color: white;
+    margin-right: 9px;
+    font-size: 34px;
+}
+
+.partner-section{
+    margin-bottom: 40px;
+    margin-top: 73px;
+}
+.partner-section img{
+    width: 126px;
+}
+.logo-img{
+	width:90px;
+
+}
+.feature-section{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.global-content{
+    padding-right: 14px;
+    padding-left: 13px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+}
+.global-content i{
+    font-size: 46px;
+    display: block;
+    color: #47b2e4;
+    margin-bottom: 8px;
+}
+.global-content h2{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.global-content p{
+    font-size: 15px;
+    padding-top: 10px;
+    line-height: 1.7;
+    color: #000000d4;
+    font-weight: 400;
+}
+
+
+
+.languages-content{
+    padding-bottom: 58px;
+}
+.languages-content h3{font-size: 23px;
+	line-height: 1.44;
+	padding-bottom: 4px;
+	font-weight: 500;
+}
+.languages-content p{
+    font-size: 15px;
+    padding-top: 0px;
+    line-height: 1.7;
+    color: #000000d4;
+    font-weight: 400;
+    margin-bottom: 43px;
+}
+.languages-content a{
+	text-decoration:none;
+	color: #47b2e4;
+	display: inline-flex;
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+.languages-content a:hover{
+	margin-right: 20px;
+
+}
+.languages-content i{
+    color: #47b2e4;
+    font-size: 23px;
+    display: inline-flex;
+    align-items: center;
+}
+
+
+}
+.company-section{
+
+
+}
+.trusted-section a{
+    background-color: #47b2e4;
+    color: white;
+    border-radius: 50rem !important;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.trusted-section h3{
+    font-size: 23px;
+    line-height: 1.44;
+    padding-bottom: 4px;
+    font-weight: 500;
+}
+.trusted-section p{
+    font-size: 15px;
+    padding-top: 0px;
+    line-height: 1.7;
+    color: #000000d4;
+    font-weight: 400;
+    margin-bottom: 43px;
+}
+.question-section{
+	    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.question-section h1{
+	    font-size: 20px;
+	    line-height: 1.44;
+	    padding-bottom: 4px;
+	    font-weight: 500;
+}
+.question-section ul{}
+.question-section ul[aria-expanded="false"] i{
+	
+}
+.question-section ul[aria-expanded="true"] i{
+	transform:rotate(90deg);
+	
+}
+.question-section li{
+    font-size: 11px;
+    line-height: 2.2;
+}
+.question-section ul li i{
+    color: white;
+    background: #12304A;
+    font-size: 15px;
+    margin-right: 15px;
+}
+.large-ranges{
+	padding-top: 70px;
+	padding-bottom: 60px;
+	background-color: #EAF5FC;
+}
+.large-ranges h1{
+	 font-size: 23px;
+    line-height: 1.44;
+    padding-bottom: 4px;
+    font-weight: 500;
+}
+.large-ranges p{
+	  font-size: 14px;
+	  width: 503px;
+	  padding-top: 0px;
+	  line-height: 1.7;
+	  color: #000000d4;
+	  font-weight: 400;
+	  margin-bottom: 43px;
+	  margin: auto;
+}
+.gafe{
+	    padding-bottom: 54px;
+}
+
+.larges-divbox{
+	background-color: white;
+	margin-bottom: 34px;
+	padding-left: 7px;
+	padding-top: 8px;
+	padding-bottom: 33px;
+}
+.larges-divbox h2{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.larges-divbox p{
+    font-size: 15px;
+    padding-top: 6px;
+    line-height: 1.7;
+    color: #000000d4;
+    font-weight: 400;
+    margin-bottom: 43px;
+    margin: auto;
+}
+.larges-divbox i{}
+.level-section{
+	background-color: #37517E;
+	padding-top: 66px;
+	padding-bottom: 114px;
+}
+.level-section h1{
+    font-size: 23px;
+    line-height: 1.44;
+    padding-bottom: 4px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.level-section p{
+    font-size: 14px;
+    width: 503px;
+    padding-top: 0px;
+    line-height: 1.7;
+    font-weight: 400;
+    margin-bottom: 43px;
+    margin: auto;
+    color: #FFFFFA;
+}
+.level-section i{
+    font-size: 30px;
+    padding-top: 30px;
+    display: block;
+    color: #47B2E4;
+}
+.member-section{
+    background: #EAF5FC;
+}
+.member-section h1{
+    font-size: 23px;
+    line-height: 1.44;
+    padding-bottom: 4px;
+    font-weight: 500;
+}
+.member-section p{}
+.member-section ul{}
+.member-section ul li{
+    padding-right: 39px;
+}
+.member-section ul li:last-child{
+    border-left: 1px solid #37517e;
+    margin-left: 10px;
+    padding-left: 26px;
+}
+.member-section ul li h3{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.member-section ul li h4{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+.member-section a{
+    border: 2px solid #47b2e4;
+    color: #47b2e4;
+    font-size: 15px;
+    padding-top: 16px;
+}
+.member-section a i{}
+.pricing-section{
+    margin-top: 80px;
+    margin-bottom: 70px;
+    background-color: #;
+}
+
+
+.pricing-section h1{
+    font-size: 23px;
+    line-height: 1.44;
+    width: 320px;
+    padding-bottom: 18px;
+    font-weight: 500;
+    margin: auto;
+}
+.pricing-section p{
+    font-size: 14px;
+    width: 503px;
+    padding-top: 0px;
+    line-height: 1.7;
+    font-weight: 400;
+    margin-bottom: 43px;
+    margin: auto;
+}
+.three-div-content{
+    padding-top: 100px;
+}
+.personal-writing{
+    margin-top: 27px;
+    margin-left: 20px;
+    margin-right: 31px;
+    padding-bottom: 30px;
+}
+.personal-writing h5{}
+.personal-writing h1{}
+.personal-writing h1 span{}
+.personal-writing h6{}
+.personal-writing ul{}
+.personal-writing ul li{}
+.personal-writing ul li i{}
+.personal-writing a{}
+.Bussiness-div{}
+.planing-padding{}
